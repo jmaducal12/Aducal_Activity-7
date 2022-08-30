@@ -1,3 +1,3 @@
 # CPE232_John Mark Aducal
-name = John Mark Aducal
-email = qjmsaducal@tip.ed.ph
+Course Code and Section: CPE232-CPE31S24
+Course Name: Managing Enterprise Servers
