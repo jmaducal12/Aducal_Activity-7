@@ -3,9 +3,8 @@ server3 ansible_host=192.168.56.110
 CentOS ansible_host=192.168.56.108
 
 [db_servers]
-server3 ansible_host=192.168.56.110
 CentOS ansible_host=192.168.56.108
 
 [file_servers]
 server3 ansible_host=192.168.56.110
-CentOS ansible_host=192.168.56.108
+
